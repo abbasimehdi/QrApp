@@ -10,8 +10,30 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "native-base": "^2.13.12",
+    "permissions": "^0.1.0",
     "react": "16.11.0",
-    "react-native": "0.62.2"
+    "react-native": "^0.62.2",
+    "react-native-camera": "^3.26.0",
+    "react-native-easy-toast": "^1.2.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-permissions": "^2.1.4",
+    "react-native-qrcode": "github:wanxsb/react-native-qrcode#1a08f9cedcb747fd230be717fe815c686e4427cb",
+    "react-native-qrcode-scanner": "^1.4.1",
+    "react-native-qrcode-svg": "^6.0.6",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-root-toast": "^3.2.1",
+    "react-native-safe-area-context": "^1.0.0",
+    "react-native-screens": "^2.7.0",
+    "react-native-simple-toast": "^1.1.2",
+    "react-native-svg": "^12.1.0",
+    "react-native-toastify": "^0.2.2",
+    "react-native-webview": "^9.4.0",
+    "react-navigation": "^4.3.9",
+    "react-navigation-stack": "^2.5.1",
+    "react-toastify": "^6.0.4"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
